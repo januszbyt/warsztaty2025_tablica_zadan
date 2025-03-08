@@ -12,8 +12,9 @@ namespace project
 {
     public partial class Form1 : Form
     {
-        
 
+        int xd = 1;
+        //hghfhgfjh
         public Form1()
         {
             InitializeComponent();
